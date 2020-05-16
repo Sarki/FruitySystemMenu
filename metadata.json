@@ -1,0 +1,13 @@
+{ 
+  "description": "Fruity System menu with usefull shortcuts",
+  "name": "Fruity System Menu",
+  "settings-schema": "org.gnome.shell.extensions.FruitySystemMenu",
+  "shell-version": [
+    "3.28",
+    "3.36",
+    "3.36.2"
+  ],
+  "url": "https://github.com/Sarki/gnome-fruity-system-menu",
+  "uuid": "FruitySystemMenu@sarki.github.com",
+  "version": 1
+}
